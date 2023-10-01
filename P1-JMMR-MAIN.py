@@ -8,7 +8,7 @@ url = "https://datos.cdmx.gob.mx/tl/dataset/certificados-de-defuncion-sedesa"
 #        |Analiza la cosa|PeticionGet|                                  |Busca que termine en .csv| |Obtiene el link wiiii
 csv_link = BeautifulSoup(requests.get(url).text, 'html.parser').find('a', href=re.compile(r'\.csv$')).get('href')
 
-# La descarga
+# La descarga+-
 urllib.request.urlretrieve(csv_link, "Defunciones-Covid.csv")
 
 #Juan Manuel Martínez Ramírez
