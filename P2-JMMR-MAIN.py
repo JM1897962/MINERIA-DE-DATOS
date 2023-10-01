@@ -11,3 +11,6 @@ df = df.drop(columns = columnas_a_eliminar)
 # Guarda la base de datos modificada, en una nueva
 nuevo_archivo_csv = "Defunciones-Covid-A2.csv"
 df.to_csv(nuevo_archivo_csv, index=False)
+
+#Juan Manuel Martínez Ramírez
+#1897962
