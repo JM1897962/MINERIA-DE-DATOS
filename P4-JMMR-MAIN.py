@@ -96,3 +96,6 @@ plt.legend()
 plt.tight_layout()
 plt.savefig('Grafica_pacientes_que_tuvieron_necropsia_por_mes.png')
 plt.close()
+
+#Juan Manuel Martínez Ramírez
+#1897962
