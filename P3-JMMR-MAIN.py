@@ -28,3 +28,5 @@ print('Desviación estándar de los fallecidos:', desviacion_estandar_edad)
 print('Asimetria de los fallecidos:', asimetria_edad)
 print('Kurtosis de los fallecidos:', kurtosis_edad)
 
+#Juan Manuel Martínez Ramírez
+#1897962
