@@ -62,3 +62,6 @@ def scatter_nationality_avg_age(df, x_column, y_column):
     plt.show()
 
 scatter_nationality_avg_age(df, 'nacionalidad', 'edad')
+
+#Juan Manuel Martínez Ramírez
+#1897962
