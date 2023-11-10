@@ -9,3 +9,6 @@ tabla_de_anova = sm.stats.anova_lm(modelo, typ=2)
 
 print("Tabla de ANOVA:")
 print(tabla_de_anova)
+
+#Juan Manuel Martínez Ramírez
+#1897962

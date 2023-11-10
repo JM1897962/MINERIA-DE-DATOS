@@ -26,3 +26,6 @@ plt.yticks(range(int(min(Y)), int(max(Y))+1))
 plt.savefig('Regresion lineal de los Fallecidos.png')
 plt.tight_layout()
 plt.show()
+
+#Juan Manuel Martínez Ramírez
+#1897962
